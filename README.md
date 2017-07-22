@@ -10,8 +10,12 @@ Run the following commands to get started:
 
 ```
 yarn
-yarn start // this starts the development server
+yarn start (or npm run start)
 ```
+
+### Storybook :book:
+
+`yarn storybook` (or `npm run storybook`)
 
 ## Copyright
 
